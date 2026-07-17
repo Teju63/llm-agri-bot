@@ -11,7 +11,7 @@
 [![Deploy](https://img.shields.io/badge/Deploy-Render-41E065?style=flat-square&logo=render&logoColor=white)](https://llm-agri-bot.onrender.com)
 [![uv](https://img.shields.io/badge/uv-Package_Manager-DE5FE9?style=flat-square&logo=uv&logoColor=white)](https://docs.astral.sh/uv/)
 
-**Live Demo → [llm-agri-bot.onrender.com](https://llm-agri-bot.onrender.com)**
+**Live Demo → [llm-agri-bot.onrender.com](https://llm-agri-bot-epj4.onrender.com/)**
 
 An AI-powered agriculture chatbot that helps Indian farmers with crop advice, pest control, soil health, weather, and government schemes — using text, voice, and image analysis.
 
